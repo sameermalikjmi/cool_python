@@ -15,5 +15,5 @@ dependencies:
   - opencv
   - lap
   - cudatoolkit=10.2
-  - torchaudio
+  
 prefix: C:\Users\SAMEER\anaconda3
