@@ -1,4 +1,7 @@
 # Print
+ You can also click the Binder badge below and run it in your browser.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sameermalikjmi/cool_python/main)
 
 
 ```python
