@@ -4,6 +4,7 @@ channels:
 dependencies:
   - conda
   - python=3.8
+  -numpy
 
   
 prefix: C:\Users\SAMEER\anaconda3
