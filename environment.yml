@@ -4,16 +4,6 @@ channels:
 dependencies:
   - conda
   - python=3.8
-  - console_shortcut
-  - conda-env
-  - conda-build
-  - conda-verify
-  - _ipyw_jlab_nb_ext_conf
-  - anaconda
-  - anaconda-navigator
-  - navigator-updater
-  - opencv
-  - lap
-  - cudatoolkit=10.2
+
   
 prefix: C:\Users\SAMEER\anaconda3
